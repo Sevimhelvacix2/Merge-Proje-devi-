@@ -1,9 +1,5 @@
 # Merge-Proje-devi-
 
-# Patika.dev Algoritma Projeleri
-
-# [patika.dev](https://www.patika.dev/tr) , [https://app.patika.dev/ayhandasyuvarlar](https://app.patika.dev/ayhandasyuvarlar)
-
 ## Merge Sort Projesi
 
 ## [16,21,11,8,12,22] -> Merge Sort
